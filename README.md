@@ -3,13 +3,13 @@
 <h3 align="center">TRANSMITTING FROM PLUTO 🪐 // 39.5 AU FROM CHAOS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=CODE+FROM+THE+VOID.;PLUTO+WAS+NEVER+A+DWARF.;I+SUMMON+NOT+WRITE." alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=80&lines=CODE+FROM+THE+VOID.;PLUTO+WAS+NEVER+A+DWARF.;I+SUMMON+NOT+WRITE." alt="typing animation" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anacoder001&label=SOULS+THAT+FOUND+PLUTO&color=0d1117&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/badge/STATUS-EXILED-FF00FF?style=for-the-badge&logo=protonmail&logoColor=black" alt="status" />
-  <img src="https://img.shields.io/github/followers/Anacoder001?style=for-the-badge&color=6e00ff&labelColor=0d1117" alt="followers" />
+  <img src="https://img.shields.io/badge/STATUS-EXILED-00FF41?style=for-the-badge&logo=protonmail&logoColor=black" alt="status" />
+  <img src="https://img.shields.io/github/followers/Anacoder001?style=for-the-badge&color=00FF41&labelColor=0d1117" alt="followers" />
 </p>
 
 ---
@@ -53,8 +53,8 @@
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Anacoder001&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anacoder001&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=BD00FF&hide=html,css" height="150" alt="top langs" />
+  <img src="https://streak-stats.demolab.com?user=Anacoder001&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anacoder001&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&hide=html,css" height="150" alt="top langs" />
 </div>
 
 ---
@@ -76,7 +76,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&qColor=%23FF00FF&aColor=%238A2BE2&borderColor=%230D1117&hideBorder=true" alt="joke card" />
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&qColor=%2300FF41&aColor=%2300FF41&borderColor=%230D1117&hideBorder=true" alt="joke card" />
 </div>
 
 ---
