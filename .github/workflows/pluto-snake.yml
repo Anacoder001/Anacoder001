@@ -2,10 +2,8 @@ name: Pluto Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # auto every 6 hours
+    - cron: "0 0 * * *"  # once per day at midnight (instead of every 6 hours)
   workflow_dispatch:         # manual Run button
-  # push trigger removed — the 3D contrib workflow commits to main,
-  # which would re-trigger this workflow and double API calls.
 
 permissions:
   contents: write
