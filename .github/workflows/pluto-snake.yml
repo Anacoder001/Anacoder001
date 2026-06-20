@@ -2,8 +2,8 @@ name: Pluto Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # once per day at midnight (instead of every 6 hours)
-  workflow_dispatch:         # manual Run button
+    - cron: "0 0 * * *"  # once daily at midnight
+  workflow_dispatch:
 
 permissions:
   contents: write
