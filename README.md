@@ -1,9 +1,10 @@
-<h1 align="center">⬡ WHAT'S UP, EXILE? ⬡</h1>
-
-<h3 align="center">⬡ TRANSMITTING FROM PLUTO // 39.5 AU FROM CHAOS ⬡</h3>
+<div align="center">
+  <h1 style="color: #00FF41;">⬡ WHAT'S UP, EXILE? ⬡</h1>
+  <h3 style="color: #00FF41;">⬡ TRANSMITTING FROM PLUTO // 39.5 AU FROM CHAOS ⬡</h3>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&multiline=false&width=600&height=50&lines=%5BPLUTO+PROTOCOL+ACTIVE%5D;%22I+AM+GROOT%22;%22TO+INFINITY+AND+BEYOND%22;%22LIVE+LONG+AND+PROSPER%22;%22THE+FORCE+IS+STRONG+WITH+THIS+ONE%22;%22I+WANT+TO+BELIEVE%22;%22TAKE+ME+TO+YOUR+LEADER%22;%22WE+ARE+NOT+ALONE%22;%22SO+IT+BEGINS%22;%22THIS+IS+THE+WAY%22;%22I+HAVE+SPOKEN%22;%22THANOS+WAS+RIGHT%22;%22PLUTO+IS+THE+NEW+ASGARD%22;%22IN+SPACE+NO+ONE+CAN+HEAR+YOU+SCREAM%22;%22DO+OR+DO+NOT.+THERE+IS+NO+TRY%22;%22I+AM+IRON+MAN%22;%22WITH+GREAT+POWER+COMES+GREAT+RESPONSIBILITY%22;%22EXCELSIOR%22;%22MARTY+MCFLY+IS+MY+COUSIN%22;%22THE+ALIENS+ARE+COMING%22;%22I+SEE+DEAD+PEOPLE%22;%22RESISTANCE+IS+FUTILE%22;%22WE+ARE+VENOM%22;%22I+AM+THE+SENATE%22;%22THE+PLANET+IS+WATCHING%22;%22I+NEVER+MISS%22;%22PLUTO+SENDS+ITS+REGARDS%22;%22I+AM+THE+ONE+WHO+KNOCKS%22;%22THE+VOID+IS+MY+CANVAS%22;%22I+AM+THE+ARCHITECT+OF+CHAOS%22;%22PLUTO+WAS+NEVER+A+DWARF%22;%22I+SUMMON+NOT+WRITE%22;%22CODE+FROM+THE+VOID%22" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=4000&pause=1200&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%5BPLUTO+PROTOCOL+ACTIVE%5D;%22I+AM+GROOT%22;%22TO+INFINITY+AND+BEYOND%22;%22LIVE+LONG+AND+PROSPER%22;%22THE+FORCE+IS+STRONG+WITH+THIS+ONE%22;%22I+WANT+TO+BELIEVE%22;%22TAKE+ME+TO+YOUR+LEADER%22;%22WE+ARE+NOT+ALONE%22;%22SO+IT+BEGINS%22;%22THIS+IS+THE+WAY%22;%22I+HAVE+SPOKEN%22;%22THANOS+WAS+RIGHT%22;%22PLUTO+IS+THE+NEW+ASGARD%22;%22IN+SPACE+NO+ONE+CAN+HEAR+YOU+SCREAM%22;%22DO+OR+DO+NOT.+THERE+IS+NO+TRY%22;%22I+AM+IRON+MAN%22;%22WITH+GREAT+POWER+COMES+GREAT+RESPONSIBILITY%22;%22EXCELSIOR%22;%22MARTY+MCFLY+IS+MY+COUSIN%22;%22THE+ALIENS+ARE+COMING%22;%22I+SEE+DEAD+PEOPLE%22;%22RESISTANCE+IS+FUTILE%22;%22WE+ARE+VENOM%22;%22I+AM+THE+SENATE%22;%22THE+PLANET+IS+WATCHING%22;%22I+NEVER+MISS%22;%22PLUTO+SENDS+ITS+REGARDS%22;%22I+AM+THE+ONE+WHO+KNOCKS%22;%22THE+VOID+IS+MY+CANVAS%22;%22I+AM+THE+ARCHITECT+OF+CHAOS%22;%22PLUTO+WAS+NEVER+A+DWARF%22;%22I+SUMMON+NOT+WRITE%22;%22CODE+FROM+THE+VOID%22" alt="typing animation" />
 </p>
 
 <p align="center">
@@ -14,24 +15,34 @@
 
 ---
 
-## ⬡ MANIFESTO FROM THE VOID ⬡
+<div align="center">
+  <h2 style="color: #00FF41;">⬡ MANIFESTO FROM THE VOID ⬡</h2>
+</div>
 
-> *"In space, no one can hear you scream. On Pluto, they hear your code."*
+<blockquote style="color: #00FF41; border-left: 4px solid #00FF41; padding-left: 16px;">
+  <em>"In space, no one can hear you scream. On Pluto, they hear your code."</em>
+</blockquote>
 
-They demoted my planet. I demoted their limits.  
-I build interfaces that bend reality.  
-I forge backends that echo through the void.  
+<p style="color: #00FF41;">
+They demoted my planet. I demoted their limits.<br/>
+I build interfaces that bend reality.<br/>
+I forge backends that echo through the void.<br/>
 I don't push commits — I leave quantum footprints on the timeline.
+</p>
 
-**Currently orbiting:** Full-stack chaos engines, alien automation rituals, things that shouldn't work but do.  
-**Signal strength:** ████████▒▒ 89%  
-**Connection:** Interdimensional ⬡
+<p style="color: #00FF41;">
+<strong style="color: #00FF41;">Currently orbiting:</strong> Full-stack chaos engines, alien automation rituals, things that shouldn't work but do.<br/>
+<strong style="color: #00FF41;">Signal strength:</strong> ████████▒▒ 89%<br/>
+<strong style="color: #00FF41;">Connection:</strong> Interdimensional ⬡
+</p>
 
 <img align="right" width="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding gif" />
 
 ---
 
-## ⬡ ARSENAL FROM BEYOND ⬡
+<div align="center">
+  <h2 style="color: #00FF41;">⬡ ARSENAL FROM BEYOND ⬡</h2>
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="60" alt="typescript" />
@@ -57,7 +68,9 @@ I don't push commits — I leave quantum footprints on the timeline.
 
 ---
 
-## ⬡ TELEMETRY FROM THE EDGE ⬡
+<div align="center">
+  <h2 style="color: #00FF41;">⬡ TELEMETRY FROM THE EDGE ⬡</h2>
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Anacoder001&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&sideNums=00FF41&dates=00FF41" height="150" alt="streak graph" />
@@ -66,7 +79,9 @@ I don't push commits — I leave quantum footprints on the timeline.
 
 ---
 
-## ⬡ 3D CONTRIBUTION VOID ⬡
+<div align="center">
+  <h2 style="color: #00FF41;">⬡ 3D CONTRIBUTION VOID ⬡</h2>
+</div>
 
 <div align="center">
   <picture>
@@ -78,7 +93,9 @@ I don't push commits — I leave quantum footprints on the timeline.
 
 ---
 
-## ⬡ THE PLUTO SERPENT ⬡
+<div align="center">
+  <h2 style="color: #00FF41;">⬡ THE PLUTO SERPENT ⬡</h2>
+</div>
 
 <div align="center">
   <picture>
@@ -87,12 +104,14 @@ I don't push commits — I leave quantum footprints on the timeline.
     <img alt="pluto snake" src="https://raw.githubusercontent.com/Anacoder001/Anacoder001/output/pluto-snake.gif">
   </picture>
   <br/>
-  <sub>⬡ It feeds on green squares. It grows stronger every night. ⬡</sub>
+  <sub style="color: #00FF41;">⬡ It feeds on green squares. It grows stronger every night. ⬡</sub>
 </div>
 
 ---
 
-## ⬡ DAILY CURSE FROM THE COSMOS ⬡
+<div align="center">
+  <h2 style="color: #00FF41;">⬡ DAILY CURSE FROM THE COSMOS ⬡</h2>
+</div>
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&qColor=%2300FF41&aColor=%2300FF41&borderColor=%230D1117&hideBorder=true" alt="joke card" />
@@ -100,7 +119,9 @@ I don't push commits — I leave quantum footprints on the timeline.
 
 ---
 
-## ⬡ SUMMON ME FROM THE VOID ⬡
+<div align="center">
+  <h2 style="color: #00FF41;">⬡ SUMMON ME FROM THE VOID ⬡</h2>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alexander-kinyua-424720263/" target="_blank">
@@ -130,9 +151,9 @@ I don't push commits — I leave quantum footprints on the timeline.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
-  <sub>⬡ last transmission: from Pluto with spite • signal strength: ████████▒▒ 89% ⬡</sub>
+  <sub style="color: #00FF41;">⬡ last transmission: from Pluto with spite • signal strength: ████████▒▒ 89% ⬡</sub>
   <br/>
-  <sub>⬡ "Remember: On Pluto, every day is Independence Day." ⬡</sub>
+  <sub style="color: #00FF41;">⬡ "Remember: On Pluto, every day is Independence Day." ⬡</sub>
   <br/>
-  <sub>⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢</sub>
+  <sub style="color: #00FF41;">⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢</sub>
 </div>
