@@ -43,7 +43,7 @@
 ###
 
 <br clear="both">
-
+<!-- rainbow night = most dramatic --> <img src="https://raw.githubusercontent.com/Anacoder001/Anacoder001/main/profile-3d-contrib/profile-night-rainbow.svg" /> <!-- or seasonal animated --> <img src="https://raw.githubusercontent.com/Anacoder001/Anacoder001/main/profile-3d-contrib/profile-season-animate.svg" />
 <img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
 ###
