@@ -1,0 +1,36 @@
+name: Pluto Snake
+
+on:
+  schedule: # runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # lets you run it manually
+  push:
+    branches: [ main ]
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate custom snakes
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Anacoder001
+          # this is your "snake data" — it pulls YOUR contributions
+          # outputs = dramatic custom palettes
+          outputs: |
+            dist/snake.svg
+            dist/pluto-snake.svg?color_snake=#FF00FF&color_dots=#0d1117,#1a0033,#6e00ff,#bd00ff,#ff77ff
+            dist/pluto-snake-dark.svg?color_snake=#ff77ff&color_dots=#000000,#220044,#7a00cc,#bd00ff,#ffffff
+            dist/pluto-snake.gif?color_snake=#FF00FF&color_dots=#0d1117,#1a0033,#6e00ff,#bd00ff,#ff77ff
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "update pluto snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
