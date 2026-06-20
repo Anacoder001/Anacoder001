@@ -2,7 +2,7 @@ name: Pluto Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # once daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -20,9 +20,9 @@ jobs:
           github_user_name: Anacoder001
           outputs: |
             dist/snake.svg
-            dist/pluto-snake.svg?color_snake=#FF00FF&color_dots=#0d1117,#1a0033,#6e00ff,#bd00ff,#ff77ff
-            dist/pluto-snake.gif?color_snake=#FF00FF&color_dots=#0d1117,#1a0033,#6e00ff,#bd00ff,#ff77ff
-            dist/pluto-snake-dark.svg?color_snake=#FF00FF&color_dots=#ff77ff,#bd00ff,#6e00ff,#1a0033,#0d1117
+            dist/pluto-snake.svg?color_snake=#00FF41&color_dots=#0d1117,#003300,#00FF41,#33FF66,#66FF99
+            dist/pluto-snake.gif?color_snake=#00FF41&color_dots=#0d1117,#003300,#00FF41,#33FF66,#66FF99
+            dist/pluto-snake-dark.svg?color_snake=#00FF41&color_dots=#66FF99,#33FF66,#00FF41,#003300,#0d1117
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
