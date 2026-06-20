@@ -1,14 +1,14 @@
-<h1 align="center">👾 WHAT'S UP, EXILE? 👾</h1>
+<h1 align="center">⬡ WHAT'S UP, EXILE? ⬡</h1>
 
 <h3 align="center">⬡ TRANSMITTING FROM PLUTO 🪐 // 39.5 AU FROM CHAOS ⬡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=140&lines=%5BPLUTO+PROTOCOL+ACTIVE%5D;%22I+AM+GROOT%22;%22TO+INFINITY+AND+BEYOND%22;%22LIVE+LONG+AND+PROSPER%22;%22THE+FORCE+IS+STRONG+WITH+THIS+ONE%22;%22I+WANT+TO+BELIEVE%22;%22TAKE+ME+TO+YOUR+LEADER%22;%22WE+ARE+NOT+ALONE%22;%22SO+IT+BEGINS%22;%22THIS+IS+THE+WAY%22;%22I+HAVE+SPOKEN%22;%22THANOS+WAS+RIGHT%22;%22PLUTO+IS+THE+NEW+ASGARD%22;%22IN+SPACE+NO+ONE+CAN+HEAR+YOU+SCREAM%22;%22DO+OR+DO+NOT.+THERE+IS+NO+TRY%22;%22I+AM+IRON+MAN%22;%22WITH+GREAT+POWER+COMES+GREAT+RESPONSIBILITY%22;%22EXCELSIOR%22;%22MARTY+MCFLY+IS+MY+COUSIN%22;%22THE+ALIENS+ARE+COMING%22;%22I+SEE+DEAD+PEOPLE%22;%22RESISTANCE+IS+FUTILE%22;%22WE+ARE+VENOM%22;%22I+AM+THE+SENATE%22;%22THE+PLANET+IS+WATCHING%22;%22I+NEVER+MISS%22;%22PLUTO+SENDS+ITS+REGARDS%22;%22I+AM+THE+ONE+WHO+KNOCKS%22;%22THE+VOID+IS+MY+CANVAS%22;%22I+AM+THE+ARCHITECT+OF+CHAOS%22;%22PLUTO+WAS+NEVER+A+DWARF%22;%22I+SUMMON+NOT+WRITE%22;%22CODE+FROM+THE+VOID%22" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&multiline=false&width=600&height=50&lines=%5BPLUTO+PROTOCOL+ACTIVE%5D;%22I+AM+GROOT%22;%22TO+INFINITY+AND+BEYOND%22;%22LIVE+LONG+AND+PROSPER%22;%22THE+FORCE+IS+STRONG+WITH+THIS+ONE%22;%22I+WANT+TO+BELIEVE%22;%22TAKE+ME+TO+YOUR+LEADER%22;%22WE+ARE+NOT+ALONE%22;%22SO+IT+BEGINS%22;%22THIS+IS+THE+WAY%22;%22I+HAVE+SPOKEN%22;%22THANOS+WAS+RIGHT%22;%22PLUTO+IS+THE+NEW+ASGARD%22;%22IN+SPACE+NO+ONE+CAN+HEAR+YOU+SCREAM%22;%22DO+OR+DO+NOT.+THERE+IS+NO+TRY%22;%22I+AM+IRON+MAN%22;%22WITH+GREAT+POWER+COMES+GREAT+RESPONSIBILITY%22;%22EXCELSIOR%22;%22MARTY+MCFLY+IS+MY+COUSIN%22;%22THE+ALIENS+ARE+COMING%22;%22I+SEE+DEAD+PEOPLE%22;%22RESISTANCE+IS+FUTILE%22;%22WE+ARE+VENOM%22;%22I+AM+THE+SENATE%22;%22THE+PLANET+IS+WATCHING%22;%22I+NEVER+MISS%22;%22PLUTO+SENDS+ITS+REGARDS%22;%22I+AM+THE+ONE+WHO+KNOCKS%22;%22THE+VOID+IS+MY+CANVAS%22;%22I+AM+THE+ARCHITECT+OF+CHAOS%22;%22PLUTO+WAS+NEVER+A+DWARF%22;%22I+SUMMON+NOT+WRITE%22;%22CODE+FROM+THE+VOID%22" alt="typing animation" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anacoder001&label=SOULS+THAT+FOUND+PLUTO&color=00FF41&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/badge/STATUS-EXILED-00FF41?style=for-the-badge&logo=protonmail&logoColor=black&color=00FF41" alt="status" />
+  <img src="https://img.shields.io/badge/STATUS-EXILED-00FF41?style=for-the-badge&logo=protonmail&logoColor=00FF41&color=00FF41" alt="status" />
   <img src="https://img.shields.io/github/followers/Anacoder001?style=for-the-badge&color=00FF41&labelColor=0d1117" alt="followers" />
 </p>
 
@@ -57,35 +57,6 @@ I don't push commits — I leave quantum footprints on the timeline.
 
 ---
 
-## 🎬 ALIEN TRANSMISSIONS
-
-<div align="center">
-  <table>
-    <tr>
-      <td>👽 "We are not alone in the universe."</td>
-      <td>🖖 "Live long and prosper."</td>
-    </tr>
-    <tr>
-      <td>🚀 "To infinity and beyond!"</td>
-      <td>🌌 "The Force will be with you. Always."</td>
-    </tr>
-    <tr>
-      <td>👾 "I want to believe."</td>
-      <td>🪐 "The truth is out there."</td>
-    </tr>
-    <tr>
-      <td>💫 "May the Force be with you."</td>
-      <td>⭐ "With great power comes great responsibility."</td>
-    </tr>
-    <tr>
-      <td>🛸 "Take me to your leader."</td>
-      <td>🔮 "Resistance is futile."</td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 📡 TELEMETRY FROM THE EDGE
 
 <div align="center">
@@ -116,7 +87,7 @@ I don't push commits — I leave quantum footprints on the timeline.
     <img alt="pluto snake" src="https://raw.githubusercontent.com/Anacoder001/Anacoder001/output/pluto-snake.gif">
   </picture>
   <br/>
-  <sub>🐍 It feeds on green squares. It grows stronger every night.</sub>
+  <sub>⬡ It feeds on green squares. It grows stronger every night. ⬡</sub>
 </div>
 
 ---
@@ -133,25 +104,25 @@ I don't push commits — I leave quantum footprints on the timeline.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alexander-kinyua-424720263/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=00FF41&logoColor=black&labelColor=0D1117&style=for-the-badge" height="30" alt="linkedin" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=00FF41&logoColor=00FF41&labelColor=0D1117&style=for-the-badge" height="30" alt="linkedin" />
   </a>
   <a href="https://www.instagram.com/alexandamk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=00FF41&logoColor=black&labelColor=0D1117&style=for-the-badge" height="30" alt="instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=00FF41&logoColor=00FF41&labelColor=0D1117&style=for-the-badge" height="30" alt="instagram" />
   </a>
   <a href="https://www.youtube.com/channel/UCxL0Y6SM5rk26FPi1nzc-Qg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=00FF41&logoColor=black&labelColor=0D1117&style=for-the-badge" height="30" alt="youtube" />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=00FF41&logoColor=00FF41&labelColor=0D1117&style=for-the-badge" height="30" alt="youtube" />
   </a>
   <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=00FF41&logoColor=black&labelColor=0D1117&style=for-the-badge" height="30" alt="twitter" />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=00FF41&logoColor=00FF41&labelColor=0D1117&style=for-the-badge" height="30" alt="twitter" />
   </a>
   <a href="https://discord.com/users/yourid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=00FF41&logoColor=black&labelColor=0D1117&style=for-the-badge" height="30" alt="discord" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=00FF41&logoColor=00FF41&labelColor=0D1117&style=for-the-badge" height="30" alt="discord" />
   </a>
   <a href="https://www.twitch.tv/yourhandle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=00FF41&logoColor=black&labelColor=0D1117&style=for-the-badge" height="30" alt="twitch" />
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=00FF41&logoColor=00FF41&labelColor=0D1117&style=for-the-badge" height="30" alt="twitch" />
   </a>
   <a href="https://dev.to/yourhandle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=00FF41&logoColor=black&labelColor=0D1117&style=for-the-badge" height="30" alt="devto" />
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=00FF41&logoColor=00FF41&labelColor=0D1117&style=for-the-badge" height="30" alt="devto" />
   </a>
 </div>
 
@@ -159,9 +130,9 @@ I don't push commits — I leave quantum footprints on the timeline.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
-  <sub>📡 last transmission: from Pluto with spite • signal strength: ████████▒▒ 89%</sub>
+  <sub>⬡ last transmission: from Pluto with spite • signal strength: ████████▒▒ 89% ⬡</sub>
   <br/>
-  <sub>👾 "Remember: On Pluto, every day is Independence Day."</sub>
+  <sub>⬡ "Remember: On Pluto, every day is Independence Day." ⬡</sub>
   <br/>
   <sub>⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢</sub>
 </div>
