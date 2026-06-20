@@ -17,8 +17,8 @@ jobs:
       - name: Generate stats
         run: |
           mkdir -p profile
-          curl -L "https://github-readme-stats.vercel.app/api?username=Anacoder001&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=BD00FF&text_color=FFFFFF&ring_color=BD00FF" -o profile/stats.svg
-          curl -L "https://github-readme-stats.vercel.app/api/top-langs?username=Anacoder001&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=BD00FF&hide=html,css" -o profile/top-langs.svg
+          curl -L "https://github-readme-stats.vercel.app/api?username=Anacoder001&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41" -o profile/stats.svg
+          curl -L "https://github-readme-stats.vercel.app/api/top-langs?username=Anacoder001&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&hide=html,css" -o profile/top-langs.svg
       
       - name: Commit updated cards
         run: |
