@@ -4,7 +4,15 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=160&lines=WHY+DID+PLUTO+CRY%3F;IT+SAW+THE+CODE.;AND+IT+WAS+BEAUTIFUL.;WHY+DID+THE+ALIEN+STOP+CODING%3F;IT+COULDN'T+FIND+THE+CONTROL+KEY.;IN+SPACE.;HOW+MANY+DEVS+DOES+IT+TAKE;TO+CHANGE+A+LIGHTBULB%3F;NONE.+IT'S+A+HARDWARE+PROBLEM.;WHY+DID+THE+STAR+REJECT+THE+PR%3F;IT+HAD+TOO+MANY+SOLAR+CONFLICTS.;GALACTIC+STANDARDS.;WHAT+DO+ALIENS+USE+FOR+VERSION+CONTROL%3F;GIT+FROM+ANOTHER+UNIVERSE.;PULL+REQUEST+PENDING.;WHY+DID+THE+ASTEROID+GET+DEMOTED%3F;IT+FAILED+ITS+CODE+REVIEW.;PLUTO+RELATES.;HOW+DOES+A+BLACK+HOLE+DEBUG%3F;IT+CONTAINS+ALL+THE+ERRORS.;SINGULARITY+APPROACHING.;WHY+IS+SPACE+SO+QUIET%3F;EVERYONE+IS+ON+MUTE.;EXCEPT+PLUTO.;WHAT+DO+YOU+CALL+A+BUG+IN+THE+MATRIX%3F;A+NEO+ISSUE.;THE+ONE+WILL+FIX+IT.;WHY+DID+THE+ALIEN+REFACTOR%3F;ITS+SPACESHIP+HAD+LEGACY+CODE.;INTERGALACTIC+TECH+DEBT.;HOW+DOES+PLUTO+COMMIT+CODE%3F;WITH+COLD+FUSION.;AND+ZERO+GRAVITY.;WHY+DID+THE+MOON+REJECT+THE+UPDATE%3F;IT+WAS+FULL+OF+CRATERS.;SYSTEM+CRASH.;WHAT+IS+THE+ALIEN+DEVS+FAVORITE+TOOL%3F;THE+FORCE+COMMANDER.;MAY+THE+SOURCE+BE+WITH+YOU.;WHY+IS+PLUTO+THE+BEST+DEV%3F;IT+WORKS+IN+THE+DARK.;AND+NEVER+CRASHES." alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=160&lines=WHY+DID+PLUTO+CRY%3F;IT+SAW+THE+CODE.;AND+IT+WAS+BEAUTIFUL.;WHY+DID+THE+ALIEN+STOP+CODING%3F;IT+COULDN'T+FIND+THE+CONTROL+KEY.;IN+SPACE.;HOW+MANY+DEVS+DOES+IT+TAKE;TO+CHANGE+A+LIGHTBULB%3F;NONE.+IT'S+A+HARDWARE+PROBLEM.;WHY+DID+THE+STAR+REJECT+THE+PR%3F;IT+HAD+TOO+MANY+SOLAR+CONFLICTS.;GALACTIC+STANDARDS.;WHAT+DO+ALIENS+USE+FOR+VERSION+CONTROL%3F;GIT+FROM+ANOTHER+UNIVERSE.;PULL+REQUEST+PENDING.;WHY+DID+THE+ASTEROID+GET+DEMOTED%3F;IT+FAILED+ITS+CODE+REVIEW.;PLUTO+RELATES." alt="typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=160&lines=HOW+DOES+A+BLACK+HOLE+DEBUG%3F;IT+CONTAINS+ALL+THE+ERRORS.;SINGULARITY+APPROACHING.;WHY+IS+SPACE+SO+QUIET%3F;EVERYONE+IS+ON+MUTE.;EXCEPT+PLUTO.;WHAT+DO+YOU+CALL+A+BUG+IN+THE+MATRIX%3F;A+NEO+ISSUE.;THE+ONE+WILL+FIX+IT.;WHY+DID+THE+ALIEN+REFACTOR%3F;ITS+SPACESHIP+HAD+LEGACY+CODE.;INTERGALACTIC+TECH+DEBT.;HOW+DOES+PLUTO+COMMIT+CODE%3F;WITH+COLD+FUSION.;AND+ZERO+GRAVITY.;WHY+DID+THE+MOON+REJECT+THE+UPDATE%3F;IT+WAS+FULL+OF+CRATERS.;SYSTEM+CRASH." alt="typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=160&lines=WHAT+IS+THE+ALIEN+DEVS+FAVORITE+TOOL%3F;THE+FORCE+COMMANDER.;MAY+THE+SOURCE+BE+WITH+YOU.;WHY+IS+PLUTO+THE+BEST+DEV%3F;IT+WORKS+IN+THE+DARK.;AND+NEVER+CRASHES.;WHAT+DO+YOU+CALL+AN+ALIEN+WITH+NO+BUGS%3F;A+MYTH.;PLUTO+PROVED+THEM+WRONG.;WHY+DID+THE+CODE+GO+TO+PLUTO%3F;IT+NEEDED+SPACE+TO+RUN.;AND+IT+FOUND+IT.;HOW+DOES+PLUTO+HANDLE+ERRORS%3F;IT+FREEZES+THEM.;ABSOLUTE+ZERO+TOLERANCE." alt="typing animation" />
 </p>
 
 <p align="center">
@@ -12,31 +20,6 @@
   <img src="https://img.shields.io/badge/STATUS-EXILED-00FF41?style=for-the-badge&logo=protonmail&logoColor=00FF41&color=00FF41" alt="status" />
   <img src="https://img.shields.io/github/followers/Anacoder001?style=for-the-badge&color=00FF41&labelColor=0d1117" alt="followers" />
 </p>
-
----
-
-<div align="center">
-  <h2 style="color: #00FF41;">⬡ MANIFESTO FROM THE VOID ⬡</h2>
-</div>
-
-<blockquote style="color: #00FF41; border-left: 4px solid #00FF41; padding-left: 16px;">
-  <em>"In space, no one can hear you scream. On Pluto, they hear your code."</em>
-</blockquote>
-
-<p style="color: #00FF41;">
-They demoted my planet. I demoted their limits.<br/>
-I build interfaces that bend reality.<br/>
-I forge backends that echo through the void.<br/>
-I don't push commits — I leave quantum footprints on the timeline.
-</p>
-
-<p style="color: #00FF41;">
-<strong style="color: #00FF41;">Currently orbiting:</strong> Full-stack chaos engines, alien automation rituals, things that shouldn't work but do.<br/>
-<strong style="color: #00FF41;">Signal strength:</strong> ████████▒▒ 89%<br/>
-<strong style="color: #00FF41;">Connection:</strong> Interdimensional ⬡
-</p>
-
-<img align="right" width="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding gif" />
 
 ---
 
@@ -152,8 +135,6 @@ I don't push commits — I leave quantum footprints on the timeline.
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
   <sub style="color: #00FF41;">⬡ last transmission: from Pluto with spite • signal strength: ████████▒▒ 89% ⬡</sub>
-  <br/>
-  <sub style="color: #00FF41;">⬡ "Remember: On Pluto, every day is Independence Day." ⬡</sub>
   <br/>
   <sub style="color: #00FF41;">⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢ ⬡ ⬢</sub>
 </div>
