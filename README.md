@@ -42,18 +42,6 @@
   <a href="https://www.linkedin.com/in/alexander-kinyua-424720263/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto" />
-  </a>
   <a href="https://www.instagram.com/alexandamk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram" />
   </a>
@@ -66,7 +54,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Anacoder001&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anacoder001&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=BD00FF&hide=html,css" height="150" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anacoder001&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=BD00FF&hide=html,css" height="150" alt="top langs" />
 </div>
 
 ---
