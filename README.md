@@ -3,74 +3,9 @@
   <h3 style="color: #00FF41;">⬡ TRANSMITTING FROM PLUTO // 39.5 AU FROM CHAOS ⬡</h3>
 </div>
 
-<!-- Animation 1: Groups 1-3 -->
+<!-- Single animation with all messages cycled properly -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=4000&pause=1500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=160&lines=WHY+DID+PLUTO+CRY%3F;IT+SAW+THE+CODE.;AND+IT+WAS+BEAUTIFUL." alt="typing animation" />
-</p>
-
-<!-- Animation 2: Groups 4-6 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=4000&pause=1500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=160&lines=WHY+DID+THE+ALIEN+STOP+CODING%3F;IT+COULDN'T+FIND+THE+CONTROL+KEY.;IN+SPACE." alt="typing animation" />
-</p>
-
-<!-- Animation 3: Groups 7-9 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=4000&pause=1500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=160&lines=HOW+MANY+DEVS+DOES+IT+TAKE;TO+CHANGE+A+LIGHTBULB%3F;NONE.+IT'S+A+HARDWARE+PROBLEM." alt="typing animation" />
-</p>
-
-<!-- Animation 4: Groups 10-12 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=4000&pause=1500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=160&lines=WHY+DID+THE+STAR+REJECT+THE+PR%3F;IT+HAD+TOO+MANY+SOLAR+CONFLICTS.;GALACTIC+STANDARDS." alt="typing animation" />
-</p>
-
-<!-- Animation 5: Groups 13-15 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=4000&pause=1500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=160&lines=WHAT+DO+ALIENS+USE+FOR+VERSION+CONTROL%3F;GIT+FROM+ANOTHER+UNIVERSE.;PULL+REQUEST+PENDING." alt="typing animation" />
-</p>
-
-<!-- Animation 6: Groups 16-18 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=4000&pause=1500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=160&lines=WHY+DID+THE+ASTEROID+GET+DEMOTED%3F;IT+FAILED+ITS+CODE+REVIEW.;PLUTO+RELATES." alt="typing animation" />
-</p>
-
-<!-- Animation 7: Groups 19-21 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=4000&pause=1500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=160&lines=HOW+DOES+A+BLACK+HOLE+DEBUG%3F;IT+CONTAINS+ALL+THE+ERRORS.;SINGULARITY+APPROACHING." alt="typing animation" />
-</p>
-
-<!-- Animation 8: Groups 22-24 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=4000&pause=1500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=160&lines=WHY+IS+SPACE+SO+QUIET%3F;EVERYONE+IS+ON+MUTE.;EXCEPT+PLUTO." alt="typing animation" />
-</p>
-
-<!-- Animation 9: Groups 25-27 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=4000&pause=1500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=160&lines=WHAT+DO+YOU+CALL+A+BUG+IN+THE+MATRIX%3F;A+NEO+ISSUE.;THE+ONE+WILL+FIX+IT." alt="typing animation" />
-</p>
-
-<!-- Animation 10: Groups 28-30 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=4000&pause=1500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=160&lines=WHY+DID+THE+ALIEN+REFACTOR%3F;ITS+SPACESHIP+HAD+LEGACY+CODE.;INTERGALACTIC+TECH+DEBT." alt="typing animation" />
-</p>
-
-<!-- Animation 11: Groups 31-33 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=4000&pause=1500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=160&lines=HOW+DOES+PLUTO+COMMIT+CODE%3F;WITH+COLD+FUSION.;AND+ZERO+GRAVITY." alt="typing animation" />
-</p>
-
-<!-- Animation 12: Groups 34-36 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=4000&pause=1500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=160&lines=WHY+DID+THE+MOON+REJECT+THE+UPDATE%3F;IT+WAS+FULL+OF+CRATERS.;SYSTEM+CRASH." alt="typing animation" />
-</p>
-
-<!-- Animation 13: Groups 37-39 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=4000&pause=1500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=160&lines=WHAT+IS+THE+ALIEN+DEVS+FAVORITE+TOOL%3F;THE+FORCE+COMMANDER.;MAY+THE+SOURCE+BE+WITH+YOU." alt="typing animation" />
-</p>
-
-<!-- Animation 14: Groups 40-42 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=4000&pause=1500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=160&lines=WHY+IS+PLUTO+THE+BEST+DEV%3F;IT+WORKS+IN+THE+DARK.;AND+NEVER+CRASHES." alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=4000&pause=1500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=160&lines=WHY+DID+PLUTO+CRY%3F;IT+SAW+THE+CODE.;AND+IT+WAS+BEAUTIFUL.;WHY+DID+THE+ALIEN+STOP+CODING%3F;IT+COULDN'T+FIND+THE+CONTROL+KEY.;IN+SPACE.;HOW+MANY+DEVS+DOES+IT+TAKE;TO+CHANGE+A+LIGHTBULB%3F;NONE.+IT'S+A+HARDWARE+PROBLEM.;WHY+DID+THE+STAR+REJECT+THE+PR%3F;IT+HAD+TOO+MANY+SOLAR+CONFLICTS.;GALACTIC+STANDARDS.;WHAT+DO+ALIENS+USE+FOR+VERSION+CONTROL%3F;GIT+FROM+ANOTHER+UNIVERSE.;PULL+REQUEST+PENDING.;WHY+DID+THE+ASTEROID+GET+DEMOTED%3F;IT+FAILED+ITS+CODE+REVIEW.;PLUTO+RELATES.;HOW+DOES+A+BLACK+HOLE+DEBUG%3F;IT+CONTAINS+ALL+THE+ERRORS.;SINGULARITY+APPROACHING.;WHY+IS+SPACE+SO+QUIET%3F;EVERYONE+IS+ON+MUTE.;EXCEPT+PLUTO.;WHAT+DO+YOU+CALL+A+BUG+IN+THE+MATRIX%3F;A+NEO+ISSUE.;THE+ONE+WILL+FIX+IT.;WHY+DID+THE+ALIEN+REFACTOR%3F;ITS+SPACESHIP+HAD+LEGACY+CODE.;INTERGALACTIC+TECH+DEBT.;HOW+DOES+PLUTO+COMMIT+CODE%3F;WITH+COLD+FUSION.;AND+ZERO+GRAVITY.;WHY+DID+THE+MOON+REJECT+THE+UPDATE%3F;IT+WAS+FULL+OF+CRATERS.;SYSTEM+CRASH.;WHAT+IS+THE+ALIEN+DEVS+FAVORITE+TOOL%3F;THE+FORCE+COMMANDER.;MAY+THE+SOURCE+BE+WITH+YOU.;WHY+IS+PLUTO+THE+BEST+DEV%3F;IT+WORKS+IN+THE+DARK.;AND+NEVER+CRASHES." alt="typing animation" />
 </p>
 
 <p align="center">
