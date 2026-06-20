@@ -2,10 +2,14 @@ name: Pluto Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # auto every 6 hours
-  workflow_dispatch: # <-- this adds the RUN button
-  push:
-    branches: [ main ]
+    - cron: "0 */6 * * *"  # auto every 6 hours
+  workflow_dispatch:         # manual Run button
+  # push trigger removed — the 3D contrib workflow commits to main,
+  # which would re-trigger this workflow and double API calls.
+
+permissions:
+  contents: write
+  pages: write
 
 jobs:
   snake:
@@ -20,6 +24,7 @@ jobs:
             dist/snake.svg
             dist/pluto-snake.svg?color_snake=#FF00FF&color_dots=#0d1117,#1a0033,#6e00ff,#bd00ff,#ff77ff
             dist/pluto-snake.gif?color_snake=#FF00FF&color_dots=#0d1117,#1a0033,#6e00ff,#bd00ff,#ff77ff
+            dist/pluto-snake-dark.svg?color_snake=#FF00FF&color_dots=#ff77ff,#bd00ff,#6e00ff,#1a0033,#0d1117
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
