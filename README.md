@@ -11,20 +11,13 @@
 
 ---
 
-<!-- ⬇︎ JOKE SECTION - MOVED TO THE TOP ⬇︎ -->
+<!-- ⬇︎ JOKE SECTION - CLEAN, DRAMATIC, NO EXTRA CARD BELOW ⬇︎ -->
 <div align="center">
   <h2 style="color: #00FF41;">⬡ DAILY CURSE FROM THE COSMOS ⬡</h2>
 </div>
 
 <div align="center">
-  <!-- DRAMATIC TYPING ANIMATION (NO EMOJIS, JUST THE PAUSE) -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=5000&pause=3000&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Why+do+programmers+prefer+dark+mode%3F;...;Because+light+attracts+bugs." alt="Typing Joke" />
-  <br/><br/>
-  
-  <!-- DYNAMIC CARD - CHANGES ON EVERY REFRESH -->
-  <sub style="color: #00FF41;">⬡ refresh for another curse ⬡</sub>
-  <br/>
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&qColor=%2300FF41&aColor=%2300FF41&borderColor=%2300FF41&hideBorder=false" width="600" alt="Dynamic Joke" />
 </div>
 
 ---
