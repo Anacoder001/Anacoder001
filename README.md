@@ -11,6 +11,17 @@
 
 ---
 
+<!-- ⬇︎ MOVED TO THE TOP WITH DRAMATIC TYPING & BIGGER TEXT ⬇︎ -->
+<div align="center">
+  <h2 style="color: #00FF41;">⬡ DAILY CURSE FROM THE COSMOS ⬡</h2>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=4000&pause=2000&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Why+do+programmers+prefer+dark+mode%3F;%F0%9F%A4%94%F0%9F%A4%94%F0%9F%A4%94%F0%9F%A4%94;Because+light+attracts+bugs." alt="Typing Joke" />
+</div>
+
+---
+
 <div align="center">
   <h2 style="color: #00FF41;">⬡ ARSENAL FROM BEYOND ⬡</h2>
 </div>
@@ -76,16 +87,6 @@
   </picture>
   <br/>
   <sub style="color: #00FF41;">⬡ It feeds on green squares. It grows stronger every night. ⬡</sub>
-</div>
-
----
-
-<div align="center">
-  <h2 style="color: #00FF41;">⬡ DAILY CURSE FROM THE COSMOS ⬡</h2>
-</div>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&qColor=%2300FF41&aColor=%2300FF41&borderColor=%230D1117&hideBorder=true" alt="joke card" />
 </div>
 
 ---
