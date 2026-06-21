@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #FF00FF;
+            fill: #00FF41;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -38,7 +38,7 @@
       }
     }
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #BD00FF;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #00FF41;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -47,7 +47,7 @@
     .bold { font-weight: 700 }
     .lang-name {
       font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #BD00FF;
+      fill: #00FF41;
     }
     .stagger {
       opacity: 0;
@@ -120,7 +120,7 @@
           
     <svg data-testid="lang-items" x="25">
       
-    <text x="0" y="11" class="stat bold" fill="#BD00FF">No languages data.</text>
+    <text x="0" y="11" class="stat bold" fill="#00FF41">No languages data.</text>
   
     </svg>
   
